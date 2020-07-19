@@ -1,9 +1,10 @@
 import React from 'react';
+import Data from './compoents/Data'
 
 function App() {
   return (
     <div className="App">
-      Mrk
+      <Data />
     </div>
   );
 }
